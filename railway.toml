@@ -1,0 +1,4 @@
+# railway.toml
+
+[build]
+  command = "npm run build --omit=dev"
